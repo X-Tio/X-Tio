@@ -1,8 +1,8 @@
+<h1 align="center">Halo, saya Tio 👋</h1>
 <p align="center">
-  <img src="https://cdn.tioxy.xyz/file/file-1747888504043.jpg" alt="Tio 3D Banner" />
+  <img src="https://cdn.tioxy.xyz/file/file-1747888985825.jpg" alt="Tio 3D Banner" />
 </p>
 
-<h1 align="center">Halo, saya Tio 👋</h1>
 
 <h3 align="center">
   <code>pengembang web | penyuka api | bot whatsapp</code>
