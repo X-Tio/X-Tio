@@ -1,16 +1,37 @@
-## Hi there 👋
+# hey there, i’m x-tio 👋
 
-<!--
-**X-Tio/X-Tio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/x-tio">
+    <img src="https://github-readme-stats.vercel.app/api?username=x-tio&show_icons=true&theme=tokyonight&hide_border=true" alt="x-tio github stats" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## 🔭 about me
+- passionate full-stack developer
+- currently exploring node.js & express
+- suka bermain dengan data, api, dan automasi
+- bot whatsapp md
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 currently 
+- javascript patterns
+- deno & bun runtime
+- ci/cd dengan github actions
+
+## 👨‍💻 tech stack
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" />
+</div>
+
+## 📫 find me on
+<p align="center">
+  <a href="mailto:satriopambudi866@gmail.com">email</a> •
+  <a href="https://wa.me/6282285357346">whatsapp</a> •
+  <a href="https://instagram.com/tulisan.ku.id">instagram</a>
+</p>
+
+## ⚡ fun fact
+> _“kode terbaik adalah kode yang mudah dimengerti dan dipelihara.”_ 😊
+
+---
+
+<sub>made with ❤️ by x-tio</sub>
