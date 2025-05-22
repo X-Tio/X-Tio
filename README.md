@@ -15,14 +15,12 @@
 </p>
 
 ## Tentang Saya
-- Pengembang full-stack yang suka ngulik
 - Fokus belajar Node.js & Express
 - Hobi main data, API, dan otomatisasi
 - Aktif bikin bot WhatsApp MD
 
 ## Saat Ini Sedang Mempelajari
 - Pola desain JavaScript
-- Runtime modern: Deno & Bun
 - CI/CD dengan GitHub Actions
 
 ## Teknologi yang Digunakan
